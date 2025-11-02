@@ -39,6 +39,8 @@ This project showcases a complete automated DevOps workflow:
 
 ## 📦 Quick Start
 
+![CI](https://github.com/Tinobrace/autodeploy-express/actions/workflows/ci.yml/badge.svg)
+
 ### Prerequisites
 - Node.js 18 or higher
 - Docker installed and running
